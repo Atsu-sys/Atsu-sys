@@ -3,7 +3,7 @@
 人間の生活環境にフォーカスし、デザインを学ぶ。
 特に空間デザインに焦点を当て、
 その後建築関連に従事。
-その後デジタルでの空間デザインに興味を持ち、VR、AR、プロジェクションマッピングなどの企画開発に行っている。
+その後デジタル空間に興味を持ち、VR、AR、プロジェクションマッピングなどの企画開発に行っている。
 
 <!--
 **Atsu-sys/Atsu-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
