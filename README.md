@@ -1,9 +1,6 @@
 ### Atsu-sys
-大学では人間環境デザインを専攻。
-人間の生活環境にフォーカスし、デザインを学ぶ。
-特に空間デザインに焦点を当て、
-その後建築関連に従事。
-その後デジタル空間に興味を持ち、VR、AR、プロジェクションマッピングなどの企画開発に行っている。
+
+I majored in Human Environmental Design at university, focusing on designing human living environments. I specialized in spatial design and subsequently worked in the architecture field. Later, I became interested in digital spaces and have been involved in planning and developing VR, AR, and projection mapping.
 
 <!--
 **Atsu-sys/Atsu-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
